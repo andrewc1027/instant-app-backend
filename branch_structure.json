@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "cancel-plan",
+    "dev",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "cancel-plan": "main",
+    "dev": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "cancel-plan",
+    "dev",
+    "origin"
+  ]
+}
